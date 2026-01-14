@@ -36,6 +36,4 @@ All data and frameworks provided here are aligned with global industrial benchma
 ## 🤝 How to Contribute
 We welcome contributions from ICT experts, Industrial Engineers, and Data Scientists. If you have verified case studies or technical documentation, please submit a **Pull Request**.
 
----
-**Maintained by:** [Your Name/Organization]  
-**License:** MIT License - Free for Industrial and Educational use.
+
